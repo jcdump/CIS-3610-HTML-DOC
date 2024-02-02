@@ -1,1 +1,1 @@
-https://jcdump.github.io/cis-3610-html-doc/
+https://github.com/jcdump/cis_3610_html_doc
